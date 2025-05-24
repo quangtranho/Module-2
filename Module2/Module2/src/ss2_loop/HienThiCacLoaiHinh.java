@@ -2,7 +2,7 @@ package ss2_loop;
 
 import java.util.Scanner;
 
-public class HIEN_THI_CAC_LOAI_HINH {
+public class HienThiCacLoaiHinh {
     public static void main(String[] args) {
         System.out.println("Menu:\n" +
                 "\n" +

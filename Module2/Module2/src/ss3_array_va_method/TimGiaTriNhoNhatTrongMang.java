@@ -2,7 +2,7 @@ package ss3_array_va_method;
 
 import java.util.Scanner;
 
-public class TIM_GIA_TRI_NHO_NHAT_TRONG_MANG {
+public class TimGiaTriNhoNhatTrongMang {
     public static void main(String[] args) {
         System.out.println("Nhập số phần tử trong mảng ");
         Scanner sc = new Scanner(System.in);

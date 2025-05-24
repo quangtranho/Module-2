@@ -2,7 +2,7 @@ package ss3_array_va_method;
 
 import java.util.Scanner;
 
-public class GOP_MANG {
+public class GopMang {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập số phần tử của mảng 1");

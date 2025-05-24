@@ -2,7 +2,7 @@ package ss1_tong_quan_java;
 
 import java.util.Scanner;
 
-public class UNG_DUNG_CHUYEN_DOI_TIEN_TE {
+public class UngDungChuyenDoiTienTe {
     public static void main(String[] args) {
         System.out.print("Mời bạn nhập số tiền USD: ");
         Scanner sc = new Scanner(System.in);

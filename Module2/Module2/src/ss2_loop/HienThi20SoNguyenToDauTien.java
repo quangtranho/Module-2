@@ -2,7 +2,7 @@ package ss2_loop;
 
 import java.util.Scanner;
 
-public class HIEN_THI_20_SO_NGUYEN_TO_DAU_TIEN {
+public class HienThi20SoNguyenToDauTien {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int socaninraSNT = sc.nextInt();

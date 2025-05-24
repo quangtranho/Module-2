@@ -1,6 +1,6 @@
 package ss2_loop;
 
-public class HIEN_THI_CAC_SO_NGUYEN_TO_NHO_HON_100 {
+public class HienThiCacSoNguyenTo {
     public static void main(String[] args) {
         int SNT = 0;
         int numbers = 1;

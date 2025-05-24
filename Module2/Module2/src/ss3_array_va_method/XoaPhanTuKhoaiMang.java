@@ -2,7 +2,7 @@ package ss3_array_va_method;
 
 import java.util.Scanner;
 
-public class XOA_PHAN_TU_KHOI_MANG {
+public class XoaPhanTuKhoaiMang {
     public static void main(String[] args) {
         int[] n = {10, 4, 6, 7, 8, 6, 0};
         for (int i = 0; i < n.length; i++) {

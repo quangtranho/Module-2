@@ -2,7 +2,7 @@ package ss3_array_va_method;
 
 import java.util.Scanner;
 
-public class THEM_PHAN_TU_VAO_MANG {
+public class ThemPhanTuVaoMang {
     public static void main(String[] args) {
         int[] n = {10, 4, 6, 7, 8, 0};
         System.out.println("Hiển thị các phần tử trong mảng:");

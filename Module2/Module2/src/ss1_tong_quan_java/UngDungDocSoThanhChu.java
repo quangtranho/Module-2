@@ -2,7 +2,7 @@ package ss1_tong_quan_java;
 
 import java.util.Scanner;
 
-public class UNG_DUNG_DOC_SO_THANH_CHU {
+public class UngDungDocSoThanhChu {
     public static void main(String[] args) {
         System.out.println("Nhập số n:");
         Scanner sc = new Scanner(System.in);

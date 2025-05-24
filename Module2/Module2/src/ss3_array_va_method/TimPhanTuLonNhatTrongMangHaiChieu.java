@@ -2,7 +2,7 @@ package ss3_array_va_method;
 
 import java.util.Scanner;
 
-public class TIM_PHAN_TU_LON_NHAT_TRONG_MANG_HAI_CHIEU {
+public class TimPhanTuLonNhatTrongMangHaiChieu {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập số hàng mảng 2 chiều ");
